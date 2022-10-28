@@ -1,7 +1,9 @@
 # fiber-storage-memcache-modtest
- demo an issue with github.com/gofiber/storage/memcache where updating mods causes an error
+ demo an issue with github.com/gofiber/storage/memcache where updating dependancies causes an error
+ 
+ ## details
 
-When updating packages using `go get -u` `github.com/gofiber/utils@v0.1.2` is upgraded to `github.com/gofiber/utils@v1.0.0` this causes the following error:
+When updating dependancies using `go get -u` `github.com/gofiber/utils@v0.1.2` is upgraded to `github.com/gofiber/utils@v1.0.0` this causes the following error:
 
 ```
 # github.com/gofiber/storage/memcache
