@@ -34,9 +34,9 @@ go 1.19
 
 ## testing a fix
 
-@efectn proposed we release `github.com/gofiber/utils@v1.0.1` at the commit of tag `v0.1.2` and a create a new releae `github.com/gofiber/utils/v2@v2.0.0-beta.1` with the gofiber v3 changes.
+[@efectn](https://github.com/efectn) proposed we release `github.com/gofiber/utils@v1.0.1` at the commit of tag `v0.1.2` and a create a new releae `github.com/gofiber/utils/v2@v2.0.0-beta.1` with the gtihub.com/gofiber/fiber utils v3-beta changes.
 
-v2 was chosen as v1 has already been released as a final release publically.
+`github.com/gofiber/utils/v2` was for chosen because v1 had already been released publically.
 
 ```
 module github.com/gofiber/utils/v2
