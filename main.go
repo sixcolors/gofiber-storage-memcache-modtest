@@ -6,6 +6,7 @@ import (
 	"net/http"
 
 	"github.com/gofiber/storage/memcache"
+	u2 "github.com/gofiber/utils/v2"
 )
 
 func main() {
@@ -14,6 +15,8 @@ func main() {
 	store := memcache.New()
 
 	defer store.Close()
+
+	_ = u2.ToLower("HI")
 
 	helloHandler := func(w http.ResponseWriter, req *http.Request) {
 		io.WriteString(w, "Hello, world!\n")

@@ -2,5 +2,10 @@ github.com/bradfitz/gomemcache v0.0.0-20220106215444-fb4bf637b56d h1:pVrfxiGfwel
 github.com/bradfitz/gomemcache v0.0.0-20220106215444-fb4bf637b56d/go.mod h1:H0wQNHz2YrLsuXOZozoeDmnHXkNCRmMW0gwFWDfEZDA=
 github.com/gofiber/storage/memcache v0.0.0-20221027071415-dca8f183e44b h1:RmpaU+Mr31jS2LA36b9bIW25YmKXN5UHBTED5RFVhr8=
 github.com/gofiber/storage/memcache v0.0.0-20221027071415-dca8f183e44b/go.mod h1:wPZkNmugrPUOakKBL2O2iWU++ykBiZILvvuCTQeJzjE=
-github.com/gofiber/utils v0.1.2 h1:1SH2YEz4RlNS0tJlMJ0bGwO0JkqPqvq6TbHK9tXZKtk=
 github.com/gofiber/utils v0.1.2/go.mod h1:pacRFtghAE3UoknMOUiXh2Io/nLWSUHtQCi/3QASsOc=
+github.com/gofiber/utils v1.0.1 h1:knct4cXwBipWQqFrOy1Pv6UcgPM+EXo9jDgc66V1Qio=
+github.com/gofiber/utils v1.0.1/go.mod h1:pacRFtghAE3UoknMOUiXh2Io/nLWSUHtQCi/3QASsOc=
+github.com/gofiber/utils/v2 v2.0.0-beta.1 h1:ACfPdqeclx+BFIja19UjkKx7k3r5tmpILpNgzrfPLKs=
+github.com/gofiber/utils/v2 v2.0.0-beta.1/go.mod h1:CG89nDoIkEFIJaw5LdLO9AmBM11odse/LC79KQujm74=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
